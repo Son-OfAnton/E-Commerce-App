@@ -1,8 +1,16 @@
-# React + Vite
+# E-Commerce-App
+This is an E-Commerce app front-end built using ReactJs, Styled Components and powered by Vite. To run this project follow the steps below:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```bash
+git clone https://github.com/Son-OfAnton/E-Commerce-App.git
+```
+```bash
+cd E-Commerce-App
+```
+```bash
+npm install
+```
+```bash
+npm run dev
+```
+The backend of this project is found at [E-Commerce-App-Backend](https://github.com/Son-OfAnton/E-Commerce-App-Backend.git)
